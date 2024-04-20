@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Kishan"
-subheading: "Software Engineer (Distributed Systems, AI)"
+subheading: "Senior Software Engineer (Blockchain, Distributed Systems)"
 handle: "kishansagathiya"
 ---

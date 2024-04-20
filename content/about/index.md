@@ -5,14 +5,15 @@ draft: false
 ---
 
 
-I am trying to create AI Study Material at [Master in AI](https://masterinai.github.io/)
+Currently, I am building a Polkadot implementation in Golang called [Gossamer](https://github.com/ChainSafe/gossamer/)
 
 I helped building [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster)
 
-An enthusiastic Software Engineer, interested in distributed web, peer to peer and privacy technologies, cloud native technologies and distributed systems
+An experienced Software Engineer, with expertise in blockchain protocols, peer to peer and privacy technologies and distributed systems.
 
 | Start | End | Company |
 | --------------- | --------------- | ----------- |
+| Sept '21 | --------------- | [ChainSafe Systems](https://chainsafe.io/) |
 | Sept '20 | June '21| Freelanced for [Robovision](https://robovision.ai/) |
 | Dec '18 | Jan '20 | Worked at [Protocol Labs (YC S14)](https://protocol.ai/) |
 | Sept '17 | Dec '18 | Worked at [Red Hat](https://www.redhat.com/en)           |
