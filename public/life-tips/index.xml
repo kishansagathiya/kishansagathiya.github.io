@@ -4,7 +4,7 @@
     <title>Life-Tips on Kishan Sagathiya</title>
     <link>http://localhost:1313/life-tips/</link>
     <description>Recent content in Life-Tips on Kishan Sagathiya</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jan 2021 20:05:38 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/life-tips/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>http://localhost:1313/life-tips/practice/</link>
       <pubDate>Wed, 20 Jan 2021 20:05:38 +0530</pubDate>
       <guid>http://localhost:1313/life-tips/practice/</guid>
-      <description> </description>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/f2O6mQkFiiw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Solitude</title>
       <link>http://localhost:1313/life-tips/solitude/</link>
       <pubDate>Sun, 01 Nov 2020 09:04:52 +0530</pubDate>
       <guid>http://localhost:1313/life-tips/solitude/</guid>
-      <description> How solitude and isolation can affect your social skills </description>
+      <description>&lt;a href=&#34;https://www.bbc.com/future/article/20201022-how-solitude-and-isolation-can-change-how-you-think&#34;&gt;How solitude and isolation can affect your social skills&lt;/a&gt;</description>
     </item>
     <item>
       <title>Sleep</title>
       <link>http://localhost:1313/life-tips/sleep/</link>
       <pubDate>Mon, 07 Sep 2020 13:02:52 +0530</pubDate>
       <guid>http://localhost:1313/life-tips/sleep/</guid>
-      <description> </description>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/t0kACis_dJE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>

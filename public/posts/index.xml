@@ -4,7 +4,7 @@
     <title>Posts on Kishan Sagathiya</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Kishan Sagathiya</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jun 2021 11:53:49 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,112 +13,112 @@
       <link>http://localhost:1313/posts/bitcoin-vs-gold/</link>
       <pubDate>Tue, 08 Jun 2021 11:53:49 +0530</pubDate>
       <guid>http://localhost:1313/posts/bitcoin-vs-gold/</guid>
-      <description>In this article, I am trying to compare Bitcoin and Gold as instruments to store savings. I won&amp;rsquo;t talk about which one is a better investment, in this blog. That discussion involves more pieces.&#xA;This is a wonderful debate.&#xA;Michael Saylor presented his case for Bitcoin wonderfully in an objective way and there is tremendous sense and value in every point he has presented.&#xA;On the other hand Frank Giustra did a terrible job presenting the case for gold.</description>
+      <description>&lt;p&gt;In this article, I am trying to compare Bitcoin and Gold as instruments to store savings. I won&amp;rsquo;t talk about which one is a better investment, in this blog. That discussion involves more pieces.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;br&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/coHC_9ApBdg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&#xA;&lt;p&gt;This is a wonderful debate.&lt;/p&gt;&#xA;&lt;p&gt;Michael Saylor presented his case for Bitcoin wonderfully in an objective way and there is tremendous sense and value in every point he has presented.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Preserving Wealth in a High Inflationary Environment</title>
       <link>http://localhost:1313/posts/preserving-wealth-in-a-high-inflationary-environment/</link>
       <pubDate>Tue, 25 May 2021 21:50:26 +0530</pubDate>
       <guid>http://localhost:1313/posts/preserving-wealth-in-a-high-inflationary-environment/</guid>
-      <description>High inflation is here!&#xA;It&amp;rsquo;s not me saying. Recently, a surprising number of influential people are saying this. Ray Dalio, Michael Burry and Jim Richards have been saying this since months. I was following the inflation discussion closely, but I was doubtful.&#xA;Buffet generally stays away from commenting on such things, but in the latest Berkshire Annual Meeting even he raised concerns of high inflation. He talked about how he has seen high inflation in the business that he is involved with.</description>
+      <description>&lt;p&gt;High inflation is here!&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not me saying. Recently, a surprising number of influential people are saying this. Ray Dalio, Michael Burry and Jim Richards have been saying this since months. I was following the inflation discussion closely, but I was doubtful.&lt;/p&gt;&#xA;&lt;p&gt;Buffet generally stays away from commenting on such things, but in the latest Berkshire Annual Meeting even he raised concerns of high inflation. He talked about how he has seen high inflation in the business that he is involved with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investing</title>
       <link>http://localhost:1313/posts/investing/</link>
       <pubDate>Sun, 22 Nov 2020 11:41:11 +0530</pubDate>
       <guid>http://localhost:1313/posts/investing/</guid>
-      <description>For a growing country like India, depending on the year inflation can get somewhere around 6% to even 12%. That means value of your cash decreases a good amount every year. Bank Fixed Deposit rates are generally lower than inflation rates. Keep in mind that, you also have to pay 1% tax on income from Fixed Deposits.&#xA;To solve the problem of decreasing value of an individual&amp;rsquo;s money it is important to invest, in particular invest in stock market.</description>
+      <description>&lt;p&gt;For a growing country like India, depending on the year inflation can get somewhere around 6% to even 12%. That means value of your cash decreases a good amount every year. Bank Fixed Deposit rates are generally lower than inflation rates. Keep in mind that, you also have to pay 1% tax on income from Fixed Deposits.&lt;/p&gt;&#xA;&lt;p&gt;To solve the problem of decreasing value of an individual&amp;rsquo;s money it is important to invest, in particular invest in stock market. Though stock market is highly volatile, historically remaining invested in stock market (think index) for long term (say 10 years) has been a very good source of wealth generation and has provided a somewhat assured returns.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Long Bets, Long Gains</title>
       <link>http://localhost:1313/posts/long-bets-long-gains/</link>
       <pubDate>Mon, 17 Aug 2020 16:02:12 +0530</pubDate>
       <guid>http://localhost:1313/posts/long-bets-long-gains/</guid>
-      <description>Most people make money with a fairly understandable model. They perform some task for which they are sure that someone will pay them in some limited time. Doctors know that you will pay them once they give you advice and medicine. A shopkeeper knows that there are people around him who want toothpastes, so he would get lots of toothpastes and make them available to closeby people.&#xA;Most of these are fairly short term bets.</description>
+      <description>&lt;p&gt;Most people make money with a fairly understandable model. They perform some task for which they are sure that someone will pay them in some limited time. Doctors know that you will pay them once they give you advice and medicine. A shopkeeper knows that there are people around him who want toothpastes, so he would get lots of toothpastes and make them available to closeby people.&lt;/p&gt;&#xA;&lt;p&gt;Most of these are fairly short term bets. We are not very good at making long term bets, because there are so many things that can change since now and then. There is a lot of risk involved. Plus most things in nature changes in an exponential rate, which makes it difficult to predict when something will happen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Golang Is Not Truly Opensource</title>
       <link>http://localhost:1313/posts/golang-is-not-truly-opensource/</link>
       <pubDate>Fri, 24 Jul 2020 13:57:10 +0530</pubDate>
       <guid>http://localhost:1313/posts/golang-is-not-truly-opensource/</guid>
-      <description>Checkout this video snippet&#xA;For the most of my career I have written softwares using Golang and almost all of my code resides on the world to see.&#xA;I have a certain image of an Open Source project in my mind:&#xA;Code for Everyone to see Lot of people use the software They have a say in what happens to the project The project attempts to explain what the code does The project attempts to be easily accessible and conforms to the community rules Softwares are complex and big.</description>
+      <description>&lt;p&gt;Checkout this video snippet&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/LjFM8vw3pbU?t=3139&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/LjFM8vw3pbU/0.jpg&#34; alt=&#34;IMAGE ALT TEXT&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the most of my career I have written softwares using Golang and almost all&#xA;of my code resides on the world to see.&lt;/p&gt;&#xA;&lt;p&gt;I have a certain image of an Open Source project in my mind:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Code for Everyone to see&lt;/li&gt;&#xA;&lt;li&gt;Lot of people use the software&lt;/li&gt;&#xA;&lt;li&gt;They have a say in what happens to the project&lt;/li&gt;&#xA;&lt;li&gt;The project attempts to explain what the code does&lt;/li&gt;&#xA;&lt;li&gt;The project attempts to be easily accessible and conforms to the community rules&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Softwares are complex and big. If I put my code on GitHub for all to see without&#xA;good documentation, it is just as bad as not putting the code in public. No one&#xA;will be able to make sense of that. Most companies do this and act as if they care&#xA;about opensource. Putting your junk software on GitHub is not open source.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Take Advice</title>
       <link>http://localhost:1313/posts/how-to-take-advice/</link>
       <pubDate>Sun, 19 Jul 2020 13:59:59 +0530</pubDate>
       <guid>http://localhost:1313/posts/how-to-take-advice/</guid>
-      <description>In general the rule of thumb in taking advice is do as I do, not do as I say.&#xA;Internet is filled with successful people giving advices. Elon Musk, Peter Theil, etc. Apply their advice in your life and you will live a miserable poor life.&#xA;Let me break this down.&#xA;Most of successful people think that world is what they have experienced. In reality, they are all outliers. World they experience is vastly different than any one of us experience.</description>
+      <description>&lt;p&gt;In general the rule of thumb in taking advice is &lt;code&gt;do as I do, not do as I say&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Internet is filled with successful people giving advices. Elon Musk, Peter Theil,&#xA;etc. Apply their advice in your life and you will live a miserable poor life.&lt;/p&gt;&#xA;&lt;p&gt;Let me break this down.&lt;/p&gt;&#xA;&lt;p&gt;Most of successful people think that world is what they have experienced. In&#xA;reality, they are all outliers. World they experience is vastly different than&#xA;any one of us experience. They are successful, so they can get away with pretty&#xA;much whatever bullshit they desire to say like work non-stop, or don&amp;rsquo;t go to college.&#xA;And their blind followers will somehow convince themselves of whatever this&#xA;successful-but-ignorant dude is saying is the right thing to do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech Recruiting</title>
       <link>http://localhost:1313/posts/tech-recruiting/</link>
       <pubDate>Sat, 18 Jul 2020 14:01:19 +0530</pubDate>
       <guid>http://localhost:1313/posts/tech-recruiting/</guid>
-      <description>Recruiting in tech is a very interesting problem and I feel like very few companies have nailed this well, mostly because of nature of the problem.&#xA;Recruiting Software Engineer in general is a difficult task. Grades tell you if the person is hard-working and conformist. There is a positive co-relation between Grades and whether you can code or not, but it is not so strong. There is a positive co-relation between your competitive coding skills (think data structures and algorithms), but it is still not strong, because competitive programming requires you to spend a lot of time banging your head to solve some puzzle and relatively little time programming.</description>
+      <description>&lt;p&gt;Recruiting in tech is a very interesting problem and I feel like very few companies&#xA;have nailed this well, mostly because of nature of the problem.&lt;/p&gt;&#xA;&lt;p&gt;Recruiting Software Engineer in general is a difficult task. Grades tell you if the&#xA;person is hard-working and conformist. There is a positive co-relation between Grades&#xA;and whether you can code or not, but it is not so strong. There is a positive&#xA;co-relation between your competitive coding skills (think data structures and algorithms),&#xA;but it is still not strong, because competitive programming requires you to spend a lot&#xA;of time banging your head to solve some puzzle and relatively little time programming.&#xA;Real life software development also requires you to bang your head to fix a bug, but&#xA;it involves a lot more of reading through the documentation, searching through the&#xA;internet and reading articles. If you have written softwares before, that definitely&#xA;is a positive indication, but there is no telling how long you will take to learn things&#xA;in this new organization. So, clearly what you can show on paper is not good&#xA;enough to figure out if you can write good software, but neither is interviewing you&#xA;for a bunch of hours.&#xA;Thus making it a very interesting problem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Align the Interests!</title>
       <link>http://localhost:1313/posts/align-the-interests/</link>
       <pubDate>Sat, 20 Jun 2020 14:05:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/align-the-interests/</guid>
-      <description>Any business where the interests of consumer and producer are not aligned, is begging to be disrupted.&#xA;A mutual fund house is not sufficiently incentivized to grow money invested in the fund. It is not their money. People working in finance can make more money by sales, than making your product better. You make more money by selling your mutual fund units than making better investment decisions using existing cash. It takes years to determine whether a investment decision is right or not.</description>
+      <description>&lt;p&gt;Any business where the interests of consumer and producer are not aligned, is&#xA;begging to be disrupted.&lt;/p&gt;&#xA;&lt;p&gt;A mutual fund house is not sufficiently incentivized to grow money invested in the&#xA;fund. It is not their money. People working in finance can make more money by sales,&#xA;than making your product better. You make more money by selling your mutual fund&#xA;units than making better investment decisions using existing cash. It takes years&#xA;to determine whether a investment decision is right or not. An employee working in&#xA;a finance company wants promotion. How can the management determine which employee&#xA;is better? How can an employee impress their boss? Sales. Just sales. Interest of&#xA;Fund manager and an individual who invested in the fund are not aligned. If 50% of&#xA;the money is invested by the fund itself, investment decisions would be significantly&#xA;different.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spineless Intelligents Will Work for Risk Taking Idiots</title>
       <link>http://localhost:1313/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</link>
       <pubDate>Sat, 20 Jun 2020 14:03:18 +0530</pubDate>
       <guid>http://localhost:1313/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</guid>
-      <description>In a world full of so many opportunities, where a poor person has all the valuable information at their disposal to make their lives better, intelligent and hard-working people are abundant.&#xA;In the business world, there are basically two kinds of people except your average office-goer Joe with a job, enterpreneurs and investors.&#xA;Enterpreneurs do all sorts of unconventional things to get users and create hype for whatever they are doing.</description>
+      <description>&lt;p&gt;In a world full of so many opportunities, where a poor person has all the valuable&#xA;information at their disposal to make their lives better, intelligent and hard-working&#xA;people are abundant.&lt;/p&gt;&#xA;&lt;p&gt;In the business world, there are basically two kinds of people except your average&#xA;office-goer Joe with a job, enterpreneurs and investors.&lt;/p&gt;&#xA;&lt;p&gt;Enterpreneurs do all sorts of unconventional things to get users and&#xA;create hype for whatever they are doing. A significant number of them are scams,&#xA;dillusional and are trying to do things in which they have no expertise, but they&#xA;will claim to have expertise in them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Is BTech in India Four Years Long?</title>
       <link>http://localhost:1313/posts/why-is-btech-in-india-four-years-long/</link>
       <pubDate>Sun, 14 Jun 2020 14:07:30 +0530</pubDate>
       <guid>http://localhost:1313/posts/why-is-btech-in-india-four-years-long/</guid>
-      <description>An Undergraduate Engineering degree is the most popular degree in India. If you are reading this and you are indian, there are high chances that you are an engineer.&#xA;Try to remember the subjects in your Bachelor&amp;rsquo;s degree. Let&amp;rsquo;s try to remove everything that was useless in that degree and see what is left. Regardless of your engineering branch, the first year of engineering is same for all. In most cases, there are only one or two relevant subjects to your branch.</description>
+      <description>&lt;p&gt;An Undergraduate Engineering degree is the most popular degree in India. If you&#xA;are reading this and you are indian, there are high chances that you are an&#xA;engineer.&lt;/p&gt;&#xA;&lt;p&gt;Try to remember the subjects in your Bachelor&amp;rsquo;s degree. Let&amp;rsquo;s try to remove&#xA;everything that was useless in that degree and see what is left.&#xA;Regardless of your engineering branch, the first year of engineering is same&#xA;for all. In most cases, there are only one or two relevant subjects to your&#xA;branch. So, out of 12 subjects in first year, you are never going to use 10&#xA;subjects. Let&amp;rsquo;s get rid of them. The last year has very few subjects. Most&#xA;students study very little and just waste their time in the last year (smoke,&#xA;drink, hike, go home, pretty much whatever tickles their fancy). Let&amp;rsquo;s get rid&#xA;of that extra time. So, you have got a curriculum that you can very conveniently&#xA;finish in 3 years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Master in AI</title>
       <link>http://localhost:1313/posts/master-in-ai/</link>
       <pubDate>Tue, 19 May 2020 14:09:44 +0530</pubDate>
       <guid>http://localhost:1313/posts/master-in-ai/</guid>
-      <description>Few days ago I purchased the domain name masterinai.com and launched a site that would give people certificate saying that You have finished the coursework equivalent to that of a masters program and you possess similar knowledge.&#xA;Currently, education is free. If you want to learn anything, you can go online, find free books, tutorials series, video lectures. There are even sites that let&amp;rsquo;s you do free exercises. The education methods available online are highly superior compared to that of your college professor and classroom learning.</description>
+      <description>&lt;p&gt;Few days ago I purchased the domain name &lt;a href=&#34;masterinai.com&#34;&gt;masterinai.com&lt;/a&gt; and launched a site&#xA;that would give people certificate saying that &lt;code&gt;You have finished the coursework equivalent to that of a masters program and you possess similar knowledge&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Currently, education is free. If you want to learn anything, you can go online,&#xA;find free books, tutorials series, video lectures. There are even sites that&#xA;let&amp;rsquo;s you do free exercises. The education methods available online are highly&#xA;superior compared to that of your college professor and classroom learning.&#xA;This is truly great time for those who want to learn. You are not limited by&#xA;resources, but only by your willingness to learn.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Income Share Agreements</title>
       <link>http://localhost:1313/posts/income-share-agreements/</link>
       <pubDate>Fri, 15 May 2020 14:13:59 +0530</pubDate>
       <guid>http://localhost:1313/posts/income-share-agreements/</guid>
-      <description>Income Share Agreements are an excuse for education companies and colleges to charge a lot more money than what they truly deserve. A better way to do this would be to charge companies when they want to hire fresh graduates.&#xA;High tuition fees are unjustifiable, because knowledge has become cheap. The internet is filled with wonderful study materials, books, videos and tutorials. In such an environment, the marginal cost of a new study material that your college/bootcamp/(whatever new fancy thing they like to call them these days) provide is negligible (close to zero).</description>
+      <description>&lt;p&gt;Income Share Agreements are an excuse for education companies and colleges to&#xA;charge a lot more money than what they truly deserve. A better way to do this&#xA;would be to charge companies when they want to hire fresh graduates.&lt;/p&gt;&#xA;&lt;p&gt;High tuition fees are unjustifiable, because knowledge has become cheap. The&#xA;internet is filled with wonderful study materials, books, videos and tutorials.&#xA;In such an environment, the marginal cost of a new study material that your&#xA;college/bootcamp/(whatever new fancy thing they like to call them these days) provide is&#xA;negligible (close to zero).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Creators and Engineers</title>
       <link>http://localhost:1313/posts/creators-and-engineers/</link>
       <pubDate>Fri, 15 May 2020 14:12:18 +0530</pubDate>
       <guid>http://localhost:1313/posts/creators-and-engineers/</guid>
-      <description>For good or bad, you don&amp;rsquo;t need to be a Good Engineer to create a useful product. Most users don&amp;rsquo;t know the first thing about privacy, security and optimisation.&#xA;There is thread trending on hacker news about someone whose extension is being removed from Google Web Store. This person has written some seriously bad code, and is so clueless about why Google is removing their extension. His/her extension has more than a million users.</description>
+      <description>&lt;p&gt;For good or bad, you don&amp;rsquo;t need to be a Good Engineer to create a useful product.&#xA;Most users don&amp;rsquo;t know the first thing about privacy, security and optimisation.&lt;/p&gt;&#xA;&lt;p&gt;There is thread trending on hacker news about someone whose extension is being&#xA;removed from Google Web Store. This person has written some seriously bad code,&#xA;and is so clueless about why Google is removing their extension. His/her extension&#xA;has more than a million users.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Brain Dump to Improve Higher Education</title>
       <link>http://localhost:1313/posts/my-brain-dump-to-improve-higher-education/</link>
       <pubDate>Tue, 28 Jan 2020 14:15:36 +0530</pubDate>
       <guid>http://localhost:1313/posts/my-brain-dump-to-improve-higher-education/</guid>
-      <description>These are my notes when I was thinking on how can I build to a college of my dreams. I don&amp;rsquo;t know when I will be able to do it, since&#xA;it will definitely require funding, it would take really long time to make a different kind of college mainstream, amount of money to be made are probably not justifiable with the efforts that anyone will have to put. I will feel as if I am doing a disservice if I try to the society squeeze more money So, I am putting all of my raw thoughts here, so if someone with superpowers ever gets lost on this corner of the internet, there is a tiny chance that this will become a reality.</description>
+      <description>&lt;p&gt;These are my notes when I was thinking on how can I build to a college of my dreams.&#xA;I don&amp;rsquo;t know when I will be able to do it, since&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;it will definitely require funding,&lt;/li&gt;&#xA;&lt;li&gt;it would take really long time to make a different kind of college mainstream,&lt;/li&gt;&#xA;&lt;li&gt;amount of money to be made are probably not justifiable with the efforts that&#xA;anyone will have to put.  I will feel as if I am doing a disservice if I try to&#xA;the society squeeze more money&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So, I am putting all of my raw thoughts here, so if someone with superpowers ever&#xA;gets lost on this corner of the internet, there is a tiny chance that this will&#xA;become a reality. For more context read my previous two blogs &lt;a href=&#34;https://medium.com/@kishansagathiya/faults-in-our-higher-education-system-ad68bc0abe9b&#34;&gt;Faults in our higher education system&lt;/a&gt; and &lt;a href=&#34;https://medium.com/@kishansagathiya/and-how-to-fix-them-6372a6a49efe&#34;&gt;And how to fix them&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Problems With Working Remotely From India</title>
       <link>http://localhost:1313/posts/problems-with-working-remotely-from-india/</link>
       <pubDate>Sat, 25 Jan 2020 14:22:44 +0530</pubDate>
       <guid>http://localhost:1313/posts/problems-with-working-remotely-from-india/</guid>
-      <description>Remote work is great for so many reasons. You get to work from wherever you want, you don’t have to commute to the office and get stuck in traffic. It is great if you want to travel the world and work at the same time. It is great if you have kids to take care of and parents to help at home. You don’t have to move to a different city.</description>
+      <description>&lt;p&gt;Remote work is great for so many reasons. You get to work from wherever you want,&#xA;you don’t have to commute to the office and get stuck in traffic. It is great if&#xA;you want to travel the world and work at the same time. It is great if you have&#xA;kids to take care of and parents to help at home. You don’t have to move to a&#xA;different city. And many other such wonderful things. I enjoyed my time as a remote&#xA;developer and still do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Which Cryptocurrencies Will Survive</title>
       <link>http://localhost:1313/posts/which-cryptocurrencies-will-survive/</link>
       <pubDate>Thu, 16 Jan 2020 14:24:27 +0530</pubDate>
       <guid>http://localhost:1313/posts/which-cryptocurrencies-will-survive/</guid>
-      <description>I am in the cryptocurrency/blockchain space now for about more than two years. Overtime, I have developed a hypothesis of my own about what it will take to make a cryptocurrency successful in the long run.&#xA;To understand this we have to realize that cryptocurrencies are directly opposite to the government. Much of the power that the government gets is from its ability to control the money, collect taxes, being able to spend that money in different sectors as government feels appropriate.</description>
+      <description>&lt;p&gt;I am in the cryptocurrency/blockchain space now for about more than two years. Overtime,&#xA;I have developed a hypothesis of my own about what it will take to make a cryptocurrency&#xA;successful in the long run.&lt;/p&gt;&#xA;&lt;p&gt;To understand this we have to realize that cryptocurrencies are directly opposite to the&#xA;government. Much of the power that the government gets is from its ability to control the&#xA;money, collect taxes, being able to spend that money in different sectors as government feels&#xA;appropriate. If a cryptocurrency replaces currency of the government (fiat currency), that&#xA;shifts all the power from the government to people who control that cryptocurrency (developers,&#xA;miners, users). In the resulting powerless government, you have a society with no order and&#xA;everything goes haywire.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
