@@ -10,4 +10,4 @@ I am going to use this space to continue learning about technology behind crypto
 
 - [ ] Deep Reinforcement Learning for Trading (free course by Sentdex on YouTube)
 - [ ] TensorTrade or FinRL
-https://chatgpt.com/share/68346206-31f4-8001-9692-4b12f6490b5f
+- [ ] https://chatgpt.com/share/68346206-31f4-8001-9692-4b12f6490b5f

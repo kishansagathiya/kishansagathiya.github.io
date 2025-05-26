@@ -146,4 +146,51 @@ blockquote {
   opacity: 0.8;
   font-size: 0.9rem;
   margin-bottom: 1rem;
+}
+
+/* Task list checkboxes */
+.post__content ul li input[type="checkbox"] {
+  margin-right: 0.5rem;
+  margin-left: -1.5rem;
+  transform: scale(1.2);
+  accent-color: var(--primary-color);
+  cursor: pointer;
+}
+
+.post__content ul li:has(input[type="checkbox"]) {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.5rem;
+}
+
+/* For browsers that don't support :has() */
+.post__content ul li input[type="checkbox"] + * {
+  margin-left: 0.5rem;
+}
+
+/* Make checkboxes more visible */
+.post__content input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--primary-color);
+  border-radius: 3px;
+  background-color: var(--background-color);
+  appearance: none;
+  -webkit-appearance: none;
+  position: relative;
+  vertical-align: middle;
+}
+
+.post__content input[type="checkbox"]:checked {
+  background-color: var(--primary-color);
+}
+
+.post__content input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  top: -2px;
+  left: 2px;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
 } 

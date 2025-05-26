@@ -26,28 +26,33 @@ theme = "hugo-theme-codex"
     identifier = "artificial-intelligence"
     url = "/artificial-intelligence/"
   [[menu.main]]
-    name = "Life Tips"
+    name = "Crypto and Investment"
     weight = 5
+    identifier = "crypto-and-investment"
+    url = "/crypto-and-investment/"
+  [[menu.main]]
+    name = "Life Tips"
+    weight = 6
     identifier = "life-tips"
     url = "/life-tips/"
   [[menu.main]]
     name = "Talks"
-    weight = 6
+    weight = 7
     identifier = "talks"
     url = "/talks/"
   [[menu.main]]
     name = "Tsundoku"
-    weight = 7
+    weight = 8
     identifier = "tsundoku"
     url = "/tsundoku/"
   [[menu.main]]
     name = "GitHub Profile"
-    weight = 8
+    weight = 9
     identifier = "github-profile"
     url = "/github-profile/"
   [[menu.main]]
     name = "Old Blog"
-    weight = 9
+    weight = 10
     identifier = "oldblog"
     url = "https://medium.com/@kishansagathiya"
 
@@ -98,4 +103,15 @@ link = "https://www.linkedin.com/in/kishansagathiya/"
     name = "Kishan Sagathiya"
     github = "kishansagathiya"
     linkedin = "kishansagathiya"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      taskList = true
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    style = "github"
+    lineNos = false
 

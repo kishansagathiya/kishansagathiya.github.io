@@ -1,0 +1,46 @@
+/* Task list checkboxes styling */
+
+// Remove list styling for checkbox items
+.post__content ul li:has(input[type="checkbox"]) {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+// Style the checkboxes themselves
+.post__content input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  border: 2px solid #2d5af1;
+  border-radius: 3px;
+  background-color: transparent;
+  appearance: none;
+  -webkit-appearance: none;
+  position: relative;
+  vertical-align: middle;
+  cursor: pointer;
+  
+  &:checked {
+    background-color: #2d5af1;
+    
+    &::after {
+      content: '✓';
+      position: absolute;
+      top: -2px;
+      left: 2px;
+      color: white;
+      font-size: 12px;
+      font-weight: bold;
+    }
+  }
+}
+
+// Fallback for browsers that don't support :has()
+.post__content ul li input[type="checkbox"] {
+  margin-left: -20px;
+}
+
+.post__content ul li input[type="checkbox"] ~ * {
+  margin-left: 0;
+} 
