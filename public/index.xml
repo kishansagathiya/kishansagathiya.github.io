@@ -6,15 +6,8 @@
     <description>Recent content on Kishan Sagathiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jul 2024 00:05:23 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2023 22:44:29 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Evolving in Career</title>
-      <link>http://localhost:1313/posts/evolving-in-career/</link>
-      <pubDate>Wed, 24 Jul 2024 00:05:23 +0530</pubDate>
-      <guid>http://localhost:1313/posts/evolving-in-career/</guid>
-      <description>Recently I finished Polkadot Blockchain Academy in Singapore. If I find time and motivation someday, I will write a bit about it.&#xA;I met a lot of interesting people there. One of those people was this software engineer in his late 30s. He was a very technical person. He would have had opportunities to move into a managerial role, but from his own admission he enjoys being hands-on with tech more and thus, he chose to remain an engineer.</description>
-    </item>
     <item>
       <title>Tsundoku</title>
       <link>http://localhost:1313/tsundoku/</link>
@@ -65,39 +58,11 @@
       <description> </description>
     </item>
     <item>
-      <title>Introduction to Reinforcement Learning</title>
-      <link>http://localhost:1313/rl/introduction/</link>
-      <pubDate>Sun, 23 Aug 2020 00:05:13 +0530</pubDate>
-      <guid>http://localhost:1313/rl/introduction/</guid>
-      <description>Reinforcement learning is an important type of Machine Learning where an agent learn how to behave in a environment by performing actions and seeing the results.&#xA;The idea behind Reinforcement Learning is that an agent will learn from the environment by interacting with it and receiving rewards for performing actions.&#xA;Learning from interaction with the environment comes from our natural experiences. Imagine you’re a child in a living room. You see a fireplace, and you approach it.</description>
-    </item>
-    <item>
-      <title>References</title>
-      <link>http://localhost:1313/cv/references/</link>
-      <pubDate>Fri, 21 Aug 2020 22:35:10 +0530</pubDate>
-      <guid>http://localhost:1313/cv/references/</guid>
-      <description>https://cs231n.github.io/</description>
-    </item>
-    <item>
-      <title>Problems</title>
-      <link>http://localhost:1313/cv/problems/</link>
-      <pubDate>Wed, 19 Aug 2020 10:59:19 +0530</pubDate>
-      <guid>http://localhost:1313/cv/problems/</guid>
-      <description>Some of the common Computer Vision Problems are as follows&#xA;Image Classification Given an image tell whether it contains a cat or not&#xA;Object Detection Check if particular objects exists in the image and specify their location by putting boundaries around them&#xA;Neural Style Transfer Repaint image on the left in the style of image on the right</description>
-    </item>
-    <item>
       <title>Long Bets, Long Gains</title>
       <link>http://localhost:1313/posts/long-bets-long-gains/</link>
       <pubDate>Mon, 17 Aug 2020 16:02:12 +0530</pubDate>
       <guid>http://localhost:1313/posts/long-bets-long-gains/</guid>
       <description>Most people make money with a fairly understandable model. They perform some task for which they are sure that someone will pay them in some limited time. Doctors know that you will pay them once they give you advice and medicine. A shopkeeper knows that there are people around him who want toothpastes, so he would get lots of toothpastes and make them available to closeby people.&#xA;Most of these are fairly short term bets.</description>
-    </item>
-    <item>
-      <title>Definitions</title>
-      <link>http://localhost:1313/blockchain/definitions/</link>
-      <pubDate>Sun, 02 Aug 2020 16:54:39 +0530</pubDate>
-      <guid>http://localhost:1313/blockchain/definitions/</guid>
-      <description>Blockchain as a distributed ledger A blockchain is the ordered list of all transactions since inception. A transaction is an atomic event, an event whose sub-event parts make no sense in isolation.&#xA;Banks, especially, are prone to identify blockchain as a distributed ledger as it indeed dovetails with their models of the world.&#xA;In this view, instead of each bank relying exclusively on their own table of accounts in their own siloed (SQL) databases, the blockchain offers the promise of consolidating the table of accounts of one bank with the table of accounts of another, typically in the case of a transaction between accounts.</description>
     </item>
     <item>
       <title>Talks</title>

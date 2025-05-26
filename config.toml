@@ -21,28 +21,33 @@ theme = "hugo-theme-codex"
     identifier = "posts"
     url = "/posts/"
   [[menu.main]]
-    name = "Life Tips"
+    name = "Artificial Intelligence"
     weight = 4
+    identifier = "artificial-intelligence"
+    url = "/artificial-intelligence/"
+  [[menu.main]]
+    name = "Life Tips"
+    weight = 5
     identifier = "life-tips"
     url = "/life-tips/"
   [[menu.main]]
     name = "Talks"
-    weight = 5
+    weight = 6
     identifier = "talks"
     url = "/talks/"
   [[menu.main]]
     name = "Tsundoku"
-    weight = 6
+    weight = 7
     identifier = "tsundoku"
     url = "/tsundoku/"
   [[menu.main]]
     name = "GitHub Profile"
-    weight = 7
+    weight = 8
     identifier = "github-profile"
     url = "/github-profile/"
   [[menu.main]]
     name = "Old Blog"
-    weight = 8
+    weight = 9
     identifier = "oldblog"
     url = "https://medium.com/@kishansagathiya"
 
