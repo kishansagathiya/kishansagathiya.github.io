@@ -15,6 +15,8 @@ I am going to use this space to log topics that I have learnt and have to learn.
 - [ ] "Attention Is All You Need" - The original transformer paper; implementing this will teach you core concepts used in modern LLMs
 - [ ] "BERT: Pre-training of Deep Bidirectional Transformers" - A manageable yet powerful NLP architecture
 - [ ] "Vision Transformer (ViT)" - Applies transformers to computer vision
+- [ ] Evals
+- [ ] Reinforcement Learning in LLMs https://chatgpt.com/c/683541e3-8a30-8001-8006-b599ef27bbec
 
 ### Generative Models
 - [ ] "Variational Autoencoder" - A good entry point into generative models
