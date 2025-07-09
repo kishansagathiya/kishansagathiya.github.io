@@ -16,9 +16,9 @@ Here is my story in detail
 
 - The real result that matters in 12th grade is how well you do on the exam for admission to IITs and NITs. There is a huge industry for coaching these tests; the curriculum is tougher than 12th grade. I have not met anyone who cleared these exams without expensive coaching. Sure, some folks do it, but I haven't met any.
 
-By self-studying, I got college seats to study engineering at both an IIT and an NIT. I wasn't happy with the stream I got, so I studied more and took those exams again the next year, and again got seats at an IIT and an NIT. My NIT seat was really good, so I got admitted.
+    By self-studying, I got college seats to study engineering at both an IIT and an NIT. I wasn't happy with the stream I got, so I studied more and took those exams again the next year, and again got seats at an IIT and an NIT. My NIT seat was really good, so I got admitted.
 
-Taking these exams again was an irrational risk that one can only take with extreme self-belief. While I was preparing for these exams again, I was already admitted to a college. I had to sacrifice my grades in that college heavily. Doing poorly in these exams would have meant I had to continue studying at the same college (far worse than my NIT in reputation), with pathetic first-year grades. I was also risking the loan my dad had taken.
+    Taking these exams again was an irrational risk that one can only take with extreme self-belief. While I was preparing for these exams again, I was already admitted to a college. I had to sacrifice my grades in that college heavily. Doing poorly in these exams would have meant I had to continue studying at the same college (far worse than my NIT in reputation), with pathetic first-year grades. I was also risking the loan my dad had taken.
 
 - I mostly did experiments, built websites, started a college magazine, made short films, wrote some short stories, tried to write novels, and did painting. I thought grades didn't matter—all that mattered was your talent. I thought I was going to be the next Mark Zuckerberg. Turns out grades mattered a lot when you wanted a job out of college. Getting better grades involved a haggling process with temporary and underqualified tutors. I scored 5.4/10 overall. I was second to last in my class of 106.
 
