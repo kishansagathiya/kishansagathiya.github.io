@@ -51,8 +51,13 @@ theme = "hugo-theme-codex"
     identifier = "github-profile"
     url = "/github-profile/"
   [[menu.main]]
-    name = "Old Blog"
+    name = "Drift Notes"
     weight = 10
+    identifier = "drift-notes"
+    url = "/drift-notes/"
+  [[menu.main]]
+    name = "Old Blog"
+    weight = 11
     identifier = "oldblog"
     url = "https://medium.com/@kishansagathiya"
 
